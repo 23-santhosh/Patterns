@@ -1,3 +1,4 @@
+```` java[]
 import java.util.*;
 public class RightAngleTriangle
 {
@@ -13,3 +14,4 @@ public class RightAngleTriangle
 	
 	}
 }
+````
