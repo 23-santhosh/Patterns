@@ -1,3 +1,4 @@
+```` java[]
 import java.util.*;
 public class Triangle
 {
@@ -14,4 +15,5 @@ public class Triangle
 	        System.out.println();
 	    }
 	}
-}	
+}
+````
