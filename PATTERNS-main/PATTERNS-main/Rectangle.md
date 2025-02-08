@@ -1,3 +1,4 @@
+```` java[]
 import java.util.*;
 public class Rectangle
 {
@@ -14,3 +15,4 @@ public class Rectangle
 	
 	}
 }
+````
