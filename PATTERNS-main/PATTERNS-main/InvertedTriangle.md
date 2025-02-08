@@ -1,3 +1,4 @@
+```` java[]
 import java.util.*;
 public class InvertedTriangle
 {
@@ -16,3 +17,4 @@ public class InvertedTriangle
 	
 	}
 }
+````
