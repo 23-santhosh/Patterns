@@ -1,3 +1,4 @@
+```` java[]
 import java.util.*;
 public class PascalTriangle
 {
@@ -15,3 +16,4 @@ public class PascalTriangle
 	
 	}
 }
+````
