@@ -1,3 +1,4 @@
+```` java[]
 import java.util.*;
 public class hallow
 {
@@ -22,3 +23,4 @@ public class hallow
 	 }
    }   
 }
+````
