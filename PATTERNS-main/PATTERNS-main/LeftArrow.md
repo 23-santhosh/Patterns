@@ -1,3 +1,4 @@
+```` java[]
 import java.util.*;
 public class LeftArrow
 {
@@ -25,3 +26,4 @@ public class LeftArrow
 	
 	}
 }
+````
